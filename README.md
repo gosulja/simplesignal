@@ -2,6 +2,18 @@
 
 A dead simple signal system implementation.
 
+# Usage
+```
+cargo add simplesignal
+```
+
+### Or
+
+```toml
+[dependencies]
+simplesignal = "0.1.1"
+```
+
 # Example
 
 ```rust
