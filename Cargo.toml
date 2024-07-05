@@ -1,0 +1,9 @@
+[package]
+name = "simplesignal"
+version = "0.1.1"
+edition = "2021"
+authors = ["blinx <blinxduh@gmail.com>"]
+description = "A dead simple signal system implementation"
+license = "MIT"
+
+[dependencies]
